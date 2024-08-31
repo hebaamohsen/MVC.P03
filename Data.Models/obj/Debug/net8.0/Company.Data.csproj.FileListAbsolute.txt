@@ -1,0 +1,12 @@
+E:\ASP.assignments\hebamohsen_MVC_P03\Data.Models\bin\Debug\net8.0\Company.Data.deps.json
+E:\ASP.assignments\hebamohsen_MVC_P03\Data.Models\bin\Debug\net8.0\Company.Data.dll
+E:\ASP.assignments\hebamohsen_MVC_P03\Data.Models\bin\Debug\net8.0\Company.Data.pdb
+E:\ASP.assignments\hebamohsen_MVC_P03\Data.Models\obj\Debug\net8.0\Company.Data.csproj.AssemblyReference.cache
+E:\ASP.assignments\hebamohsen_MVC_P03\Data.Models\obj\Debug\net8.0\Company.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.assignments\hebamohsen_MVC_P03\Data.Models\obj\Debug\net8.0\Company.Data.AssemblyInfoInputs.cache
+E:\ASP.assignments\hebamohsen_MVC_P03\Data.Models\obj\Debug\net8.0\Company.Data.AssemblyInfo.cs
+E:\ASP.assignments\hebamohsen_MVC_P03\Data.Models\obj\Debug\net8.0\Company.Data.csproj.CoreCompileInputs.cache
+E:\ASP.assignments\hebamohsen_MVC_P03\Data.Models\obj\Debug\net8.0\Company.Data.dll
+E:\ASP.assignments\hebamohsen_MVC_P03\Data.Models\obj\Debug\net8.0\refint\Company.Data.dll
+E:\ASP.assignments\hebamohsen_MVC_P03\Data.Models\obj\Debug\net8.0\Company.Data.pdb
+E:\ASP.assignments\hebamohsen_MVC_P03\Data.Models\obj\Debug\net8.0\ref\Company.Data.dll
