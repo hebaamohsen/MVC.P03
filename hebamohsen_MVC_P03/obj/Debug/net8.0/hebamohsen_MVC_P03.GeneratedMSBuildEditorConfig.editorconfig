@@ -26,12 +26,36 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = E:\ASP.assignments\hebamohsen_MVC_P03\hebamohsen_MVC_P03
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/ASP.assignments/hebamohsen_MVC_P03/hebamohsen_MVC_P03/Views/DepartmentController1/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudENvbnRyb2xsZXIxXEluZGV4LmNzaHRtbA==
+[E:/ASP.assignments/hebamohsen_MVC_P03/hebamohsen_MVC_P03/Views/Department/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ASP.assignments/hebamohsen_MVC_P03/hebamohsen_MVC_P03/Views/Department/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ASP.assignments/hebamohsen_MVC_P03/hebamohsen_MVC_P03/Views/Department/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ASP.assignments/hebamohsen_MVC_P03/hebamohsen_MVC_P03/Views/Department/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ASP.assignments/hebamohsen_MVC_P03/hebamohsen_MVC_P03/Views/Employee/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ASP.assignments/hebamohsen_MVC_P03/hebamohsen_MVC_P03/Views/Employee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/ASP.assignments/hebamohsen_MVC_P03/hebamohsen_MVC_P03/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ASP.assignments/hebamohsen_MVC_P03/hebamohsen_MVC_P03/Views/Home/NotFoundPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxOb3RGb3VuZFBhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/ASP.assignments/hebamohsen_MVC_P03/hebamohsen_MVC_P03/Views/Home/Privacy.cshtml]

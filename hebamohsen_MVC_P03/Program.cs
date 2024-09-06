@@ -1,6 +1,8 @@
 using Company.Data.Contexts;
 using Company.Repository.Interfaces;
 using Company.Repository.Repositories;
+using Company.Servise.Interfaces;
+using Company.Servise.Services;
 using Microsoft.EntityFrameworkCore;
 
 namespace hebamohsen_MVC_P03
@@ -19,7 +21,9 @@ namespace hebamohsen_MVC_P03
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
             });
 
-            builder.Services.AddScoped<IDepartmentRepository, DepartmentRepository>();
+            builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+            builder.Services.AddScoped<IDepartmentServise, DepartmentService>();
+
 
             var app = builder.Build();
 

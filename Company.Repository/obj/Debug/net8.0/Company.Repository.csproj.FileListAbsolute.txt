@@ -13,3 +13,4 @@ E:\ASP.assignments\hebamohsen_MVC_P03\Company.Repository\obj\Debug\net8.0\Compan
 E:\ASP.assignments\hebamohsen_MVC_P03\Company.Repository\obj\Debug\net8.0\refint\Company.Repository.dll
 E:\ASP.assignments\hebamohsen_MVC_P03\Company.Repository\obj\Debug\net8.0\Company.Repository.pdb
 E:\ASP.assignments\hebamohsen_MVC_P03\Company.Repository\obj\Debug\net8.0\ref\Company.Repository.dll
+E:\ASP.assignments\hebamohsen_MVC_P03\Company.Repository\obj\Debug\net8.0\Company.Repository.sourcelink.json

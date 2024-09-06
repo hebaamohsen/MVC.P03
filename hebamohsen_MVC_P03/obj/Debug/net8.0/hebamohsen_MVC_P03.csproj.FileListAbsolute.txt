@@ -257,3 +257,4 @@ E:\ASP.assignments\hebamohsen_MVC_P03\hebamohsen_MVC_P03\bin\Debug\net8.0\runtim
 E:\ASP.assignments\hebamohsen_MVC_P03\hebamohsen_MVC_P03\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 E:\ASP.assignments\hebamohsen_MVC_P03\hebamohsen_MVC_P03\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 E:\ASP.assignments\hebamohsen_MVC_P03\hebamohsen_MVC_P03\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\ASP.assignments\hebamohsen_MVC_P03\hebamohsen_MVC_P03\obj\Debug\net8.0\hebamohsen_MVC_P03.sourcelink.json
