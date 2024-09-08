@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "3g/wQwrfZg4=",
+  "dgSpecHash": "btcf/t/7q4s=",
   "success": true,
   "projectFilePath": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\NoteB\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\NoteB\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\NoteB\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\NoteB\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
@@ -56,6 +57,7 @@
     "C:\\Users\\NoteB\\.nuget\\packages\\humanizer.core.zh-cn\\2.14.1\\humanizer.core.zh-cn.2.14.1.nupkg.sha512",
     "C:\\Users\\NoteB\\.nuget\\packages\\humanizer.core.zh-hans\\2.14.1\\humanizer.core.zh-hans.2.14.1.nupkg.sha512",
     "C:\\Users\\NoteB\\.nuget\\packages\\humanizer.core.zh-hant\\2.14.1\\humanizer.core.zh-hant.2.14.1.nupkg.sha512",
+    "C:\\Users\\NoteB\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
     "C:\\Users\\NoteB\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.24\\microsoft.aspnetcore.razor.language.6.0.24.nupkg.sha512",
     "C:\\Users\\NoteB\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
     "C:\\Users\\NoteB\\.nuget\\packages\\microsoft.build\\17.8.3\\microsoft.build.17.8.3.nupkg.sha512",

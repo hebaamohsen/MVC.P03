@@ -9,6 +9,6 @@ namespace Company.Repository.Interfaces
 {
     public interface IEmployeeRepository : IGenericRepository<Employee>
     {
-       
+        IEnumerable<Employee> GetEmployeeByName(string name);
     }
 }

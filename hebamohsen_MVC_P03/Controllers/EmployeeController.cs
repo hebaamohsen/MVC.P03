@@ -1,5 +1,8 @@
 ﻿using Company.Data.Models;
 using Company.Repository.Interfaces;
+using Company.Servise.Interfaces;
+using Company.Servise.Interfaces.Employee;
+using Company.Servise.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.ModelBinding;
 
@@ -7,37 +10,49 @@ namespace hebamohsen_MVC_P03.Controllers
 {
     public class EmployeeController : Controller
     {
-        private readonly IUnitOfWork _unitOfWork;
+        private readonly IEmployeeServise _employeeServise;
+        private readonly IDepartmentServise _departmentServise;
 
-        public EmployeeController(IUnitOfWork unitOfWork)
+        public EmployeeController(IEmployeeServise employeeServise, IDepartmentServise departmentServise)
         {
-            _unitOfWork = unitOfWork;
+            _employeeServise = employeeServise;
+            _departmentServise = departmentServise;
         }
-        public IActionResult Index()
+        public IActionResult Index(string searchInput)
         {
-           var employees = _unitOfWork.EmployeeRepository.GetAll();
-            return View(employees);
+            //ViewBag.Message = "Hello From Employee Index(ViewBag)";
+            IEnumerable<EmployeeDto> employees = new List<EmployeeDto>();
+            if (string.IsNullOrEmpty(searchInput))
+                employees = _employeeServise.GetAll();
+            else
+                employees = _employeeServise.GetEmployeeByName(searchInput);
+                return View(employees);
+           
         }
 
         public IActionResult Create()
         {
-
-            return View(new Employee());
+            ViewBag.Departments = _departmentServise.GetAll();
+            return View();
         }
 
         [HttpPost]
-        public IActionResult Create(Employee employee)
+        public IActionResult Create(EmployeeDto employee)
         {
-            ModelState["Department"].ValidationState = ModelValidationState.Valid;
-
-            if (ModelState.IsValid)
+            try
             {
-                _unitOfWork.EmployeeRepository.Add(employee);
-                _unitOfWork.Complete(); 
+                if (ModelState.IsValid)
+                {
+                    _employeeServise.Add(employee);
+                    return RedirectToAction("Index");
 
-                return RedirectToAction("Index");
+                }
+                return View(employee);
             }
-            return View(employee);
+            catch (Exception ex)
+            {
+                return View(employee);
+            }
         }
     }
 }

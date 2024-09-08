@@ -25,23 +25,23 @@ namespace hebamohsen_MVC_P03.Controllers
         }
 
         [HttpPost]
-        public IActionResult Create(Department department)
+        public IActionResult Create(DepartmentDto departmentDto)
         {
            try
             {
                 if (ModelState.IsValid)
                 {
-                    _departmentServise.Add(department);
+                    _departmentServise.Add(departmentDto);
                     return RedirectToAction("Index");
 
                 }
                 ModelState.AddModelError("DepartmentError", "ValidationError");
-                return View(department);
+                return View(departmentDto);
             }
             catch(Exception ex) 
             {
                 ModelState.AddModelError("DepartmentError", ex.Message);
-                return View(department);
+                return View(departmentDto);
             }
         }
 
@@ -60,11 +60,11 @@ namespace hebamohsen_MVC_P03.Controllers
         }
 
         [HttpPost]
-        public IActionResult Update(int? id, Department department)
+        public IActionResult Update(int? id, DepartmentDto departmentDto)
         {
-            if(department.Id != id.Value)
+            if(departmentDto.Id != id.Value)
                 return RedirectToAction("NotFoundPage", null, "Home");
-            _departmentServise.Update(department);
+            _departmentServise.Update(departmentDto);
 
             return RedirectToAction(nameof(Index));
         }

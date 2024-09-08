@@ -2,6 +2,7 @@ using Company.Data.Contexts;
 using Company.Repository.Interfaces;
 using Company.Repository.Repositories;
 using Company.Servise.Interfaces;
+using Company.Servise.Mapping;
 using Company.Servise.Services;
 using Microsoft.EntityFrameworkCore;
 
@@ -23,6 +24,11 @@ namespace hebamohsen_MVC_P03
 
             builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
             builder.Services.AddScoped<IDepartmentServise, DepartmentService>();
+            builder.Services.AddScoped<IEmployeeServise, EmployeeService>();
+            builder.Services.AddAutoMapper(x=>x.AddProfile(new EmployeeProfile()));
+            builder.Services.AddAutoMapper(x => x.AddProfile(new DepartmentProfile()));
+
+
 
 
             var app = builder.Build();
