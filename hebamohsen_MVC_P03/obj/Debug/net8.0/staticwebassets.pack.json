@@ -5,12 +5,340 @@
       "PackagePath": "staticwebassets\\hebamohsen_MVC_P03.bundle.scp.css"
     },
     {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\animate\\animate.css"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\animsition\\Layout-Images\\bg-01.jpg",
+      "PackagePath": "staticwebassets\\animsition\\Layout-Images\\bg-01.jpg"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\animsition\\Layout-Images\\icons\\favicon.ico",
+      "PackagePath": "staticwebassets\\animsition\\Layout-Images\\icons\\favicon.ico"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\animsition\\css\\animsition.css",
+      "PackagePath": "staticwebassets\\animsition\\css\\animsition.css"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\animsition\\css\\animsition.min.css",
+      "PackagePath": "staticwebassets\\animsition\\css\\animsition.min.css"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\animsition\\js\\animsition.js",
+      "PackagePath": "staticwebassets\\animsition\\js\\animsition.js"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\animsition\\js\\animsition.min.js",
+      "PackagePath": "staticwebassets\\animsition\\js\\animsition.min.js"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
       "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\css\\util.css",
+      "PackagePath": "staticwebassets\\css\\util.css"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\daterangepicker\\moment.js",
+      "PackagePath": "staticwebassets\\daterangepicker\\moment.js"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\daterangepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\daterangepicker\\moment.min.js"
+    },
+    {
       "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\iconic\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\iconic\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\poppins\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\poppins\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\poppins\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\poppins\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\poppins\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\poppins\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\poppins\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\poppins\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\poppins\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\poppins\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\poppins\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\poppins\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\fonts\\poppins\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\jquery\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\jquery\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\js\\popper.js",
+      "PackagePath": "staticwebassets\\js\\popper.js"
     },
     {
       "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\js\\site.js",
@@ -243,6 +571,22 @@
     {
       "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\select2\\select2.css"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\select2\\select2.js"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\select2\\select2.min.css"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\wwwroot\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\select2\\select2.min.js"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.hebamohsen_MVC_P03.props",

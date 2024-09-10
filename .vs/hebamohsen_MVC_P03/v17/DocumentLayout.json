@@ -3,108 +3,52 @@
   "WorkspaceRootPath": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\hebamohsen_mvc_p03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|solutionrelative:hebamohsen_mvc_p03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2AD2788A-9B89-4999-923C-7F4018D81917}|Company.Servise\\Company.Servise.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\company.servise\\interfaces\\employee\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AD2788A-9B89-4999-923C-7F4018D81917}|Company.Servise\\Company.Servise.csproj|solutionrelative:company.servise\\interfaces\\employee\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\hebamohsen_mvc_p03\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|solutionrelative:hebamohsen_mvc_p03\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\hebamohsen_mvc_p03\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|solutionrelative:hebamohsen_mvc_p03\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\hebamohsen_mvc_p03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|solutionrelative:hebamohsen_mvc_p03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AD2788A-9B89-4999-923C-7F4018D81917}|Company.Servise\\Company.Servise.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\company.servise\\interfaces\\employee\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AD2788A-9B89-4999-923C-7F4018D81917}|Company.Servise\\Company.Servise.csproj|solutionrelative:company.servise\\interfaces\\employee\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\hebamohsen_mvc_p03\\views\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|solutionrelative:hebamohsen_mvc_p03\\views\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\hebamohsen_mvc_p03\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|solutionrelative:hebamohsen_mvc_p03\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\hebamohsen_mvc_p03\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|solutionrelative:hebamohsen_mvc_p03\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AD2788A-9B89-4999-923C-7F4018D81917}|Company.Servise\\Company.Servise.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\company.servise\\services\\department\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AD2788A-9B89-4999-923C-7F4018D81917}|Company.Servise\\Company.Servise.csproj|solutionrelative:company.servise\\services\\department\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\hebamohsen_mvc_p03\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|solutionrelative:hebamohsen_mvc_p03\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AD2788A-9B89-4999-923C-7F4018D81917}|Company.Servise\\Company.Servise.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\company.servise\\mapping\\department\\departmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AD2788A-9B89-4999-923C-7F4018D81917}|Company.Servise\\Company.Servise.csproj|solutionrelative:company.servise\\mapping\\department\\departmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\hebamohsen_mvc_p03\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|solutionrelative:hebamohsen_mvc_p03\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AD2788A-9B89-4999-923C-7F4018D81917}|Company.Servise\\Company.Servise.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\company.servise\\services\\employee\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AD2788A-9B89-4999-923C-7F4018D81917}|Company.Servise\\Company.Servise.csproj|solutionrelative:company.servise\\services\\employee\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\hebamohsen_mvc_p03\\models\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|solutionrelative:hebamohsen_mvc_p03\\models\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AD2788A-9B89-4999-923C-7F4018D81917}|Company.Servise\\Company.Servise.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\company.servise\\helper\\documentsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AD2788A-9B89-4999-923C-7F4018D81917}|Company.Servise\\Company.Servise.csproj|solutionrelative:company.servise\\helper\\documentsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\ASP.assignments\\hebamohsen_MVC_P03\\Data.Models\\Migrations\\20240910150346_AddIdentityTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data.Models\\Migrations\\20240910150346_AddIdentityTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AD2788A-9B89-4999-923C-7F4018D81917}|Company.Servise\\Company.Servise.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\company.servise\\company.servise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2AD2788A-9B89-4999-923C-7F4018D81917}|Company.Servise\\Company.Servise.csproj|solutionrelative:company.servise\\company.servise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{1049E3CA-C448-47E4-AFFF-5B8478C1A80D}|Data.Models\\Company.Data.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\data.models\\contexts\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1049E3CA-C448-47E4-AFFF-5B8478C1A80D}|Data.Models\\Company.Data.csproj|solutionrelative:data.models\\contexts\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\hebamohsen_mvc_p03\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|solutionrelative:hebamohsen_mvc_p03\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1049E3CA-C448-47E4-AFFF-5B8478C1A80D}|Data.Models\\Company.Data.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\data.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1049E3CA-C448-47E4-AFFF-5B8478C1A80D}|Data.Models\\Company.Data.csproj|solutionrelative:data.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFE36C3A-1B64-4400-9EF0-B25C31489A2E}|Company.Repository\\Company.Repository.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\company.repository\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFE36C3A-1B64-4400-9EF0-B25C31489A2E}|Company.Repository\\Company.Repository.csproj|solutionrelative:company.repository\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AD2788A-9B89-4999-923C-7F4018D81917}|Company.Servise\\Company.Servise.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\company.servise\\interfaces\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AD2788A-9B89-4999-923C-7F4018D81917}|Company.Servise\\Company.Servise.csproj|solutionrelative:company.servise\\interfaces\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFE36C3A-1B64-4400-9EF0-B25C31489A2E}|Company.Repository\\Company.Repository.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\company.repository\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFE36C3A-1B64-4400-9EF0-B25C31489A2E}|Company.Repository\\Company.Repository.csproj|solutionrelative:company.repository\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFE36C3A-1B64-4400-9EF0-B25C31489A2E}|Company.Repository\\Company.Repository.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\company.repository\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFE36C3A-1B64-4400-9EF0-B25C31489A2E}|Company.Repository\\Company.Repository.csproj|solutionrelative:company.repository\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFE36C3A-1B64-4400-9EF0-B25C31489A2E}|Company.Repository\\Company.Repository.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\company.repository\\interfaces\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFE36C3A-1B64-4400-9EF0-B25C31489A2E}|Company.Repository\\Company.Repository.csproj|solutionrelative:company.repository\\interfaces\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AD2788A-9B89-4999-923C-7F4018D81917}|Company.Servise\\Company.Servise.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\company.servise\\interfaces\\employee\\iemployeeservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AD2788A-9B89-4999-923C-7F4018D81917}|Company.Servise\\Company.Servise.csproj|solutionrelative:company.servise\\interfaces\\employee\\iemployeeservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\hebamohsen_mvc_p03\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|solutionrelative:hebamohsen_mvc_p03\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\hebamohsen_mvc_p03\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|solutionrelative:hebamohsen_mvc_p03\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\hebamohsen_mvc_p03\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|solutionrelative:hebamohsen_mvc_p03\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\hebamohsen_mvc_p03\\views\\department\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|solutionrelative:hebamohsen_mvc_p03\\views\\department\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AD2788A-9B89-4999-923C-7F4018D81917}|Company.Servise\\Company.Servise.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\company.servise\\interfaces\\idepartmentservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AD2788A-9B89-4999-923C-7F4018D81917}|Company.Servise\\Company.Servise.csproj|solutionrelative:company.servise\\interfaces\\idepartmentservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\hebamohsen_mvc_p03\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|solutionrelative:hebamohsen_mvc_p03\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1049E3CA-C448-47E4-AFFF-5B8478C1A80D}|Data.Models\\Company.Data.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\data.models\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1049E3CA-C448-47E4-AFFF-5B8478C1A80D}|Data.Models\\Company.Data.csproj|solutionrelative:data.models\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1049E3CA-C448-47E4-AFFF-5B8478C1A80D}|Data.Models\\Company.Data.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\data.models\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1049E3CA-C448-47E4-AFFF-5B8478C1A80D}|Data.Models\\Company.Data.csproj|solutionrelative:data.models\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AD2788A-9B89-4999-923C-7F4018D81917}|Company.Servise\\Company.Servise.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\company.servise\\mapping\\employee\\employeeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AD2788A-9B89-4999-923C-7F4018D81917}|Company.Servise\\Company.Servise.csproj|solutionrelative:company.servise\\mapping\\employee\\employeeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1049E3CA-C448-47E4-AFFF-5B8478C1A80D}|Data.Models\\Company.Data.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\data.models\\company.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1049E3CA-C448-47E4-AFFF-5B8478C1A80D}|Data.Models\\Company.Data.csproj|solutionrelative:data.models\\company.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -114,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -122,54 +66,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DepartmentService.cs",
-              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\Company.Servise\\Services\\Department\\DepartmentService.cs",
-              "RelativeDocumentMoniker": "Company.Servise\\Services\\Department\\DepartmentService.cs",
-              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\Company.Servise\\Services\\Department\\DepartmentService.cs",
-              "RelativeToolTip": "Company.Servise\\Services\\Department\\DepartmentService.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAA0wDoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T20:06:41.251Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "EmployeeDto.cs",
               "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\Company.Servise\\Interfaces\\Employee\\EmployeeDto.cs",
               "RelativeDocumentMoniker": "Company.Servise\\Interfaces\\Employee\\EmployeeDto.cs",
               "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\Company.Servise\\Interfaces\\Employee\\EmployeeDto.cs",
               "RelativeToolTip": "Company.Servise\\Interfaces\\Employee\\EmployeeDto.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAwwBUAAAAWAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T19:56:32.373Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Program.cs",
-              "RelativeDocumentMoniker": "hebamohsen_MVC_P03\\Program.cs",
-              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Program.cs",
-              "RelativeToolTip": "hebamohsen_MVC_P03\\Program.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAQwCAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T18:30:19.192Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DepartmentController.cs",
-              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Controllers\\DepartmentController.cs",
-              "RelativeDocumentMoniker": "hebamohsen_MVC_P03\\Controllers\\DepartmentController.cs",
-              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Controllers\\DepartmentController.cs",
-              "RelativeToolTip": "hebamohsen_MVC_P03\\Controllers\\DepartmentController.cs",
-              "ViewState": "AQIAAEQAAAAAAAAAAAAuwEIAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T21:38:59.687Z",
+              "WhenOpened": "2024-09-10T20:42:02.118Z",
               "EditorCaption": ""
             },
             {
@@ -180,282 +85,139 @@
               "RelativeDocumentMoniker": "hebamohsen_MVC_P03\\Views\\Employee\\Create.cshtml",
               "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Views\\Employee\\Create.cshtml",
               "RelativeToolTip": "hebamohsen_MVC_P03\\Views\\Employee\\Create.cshtml",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAADEAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-07T16:28:30.366Z",
+              "WhenOpened": "2024-09-10T20:02:00.732Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Views\\Employee\\Index.cshtml",
-              "RelativeDocumentMoniker": "hebamohsen_MVC_P03\\Views\\Employee\\Index.cshtml",
-              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Views\\Employee\\Index.cshtml",
-              "RelativeToolTip": "hebamohsen_MVC_P03\\Views\\Employee\\Index.cshtml",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAAAAAAAAAeAAAA",
+              "DocumentIndex": 3,
+              "Title": "_AuthLayout.cshtml",
+              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Views\\Shared\\_AuthLayout.cshtml",
+              "RelativeDocumentMoniker": "hebamohsen_MVC_P03\\Views\\Shared\\_AuthLayout.cshtml",
+              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Views\\Shared\\_AuthLayout.cshtml",
+              "RelativeToolTip": "hebamohsen_MVC_P03\\Views\\Shared\\_AuthLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-07T16:40:49.851Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DocumentSettings.cs",
-              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\Company.Servise\\Helper\\DocumentSettings.cs",
-              "RelativeDocumentMoniker": "Company.Servise\\Helper\\DocumentSettings.cs",
-              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\Company.Servise\\Helper\\DocumentSettings.cs",
-              "RelativeToolTip": "Company.Servise\\Helper\\DocumentSettings.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAgwBsAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T22:13:12.802Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DepartmentProfile.cs",
-              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\Company.Servise\\Mapping\\Department\\DepartmentProfile.cs",
-              "RelativeDocumentMoniker": "Company.Servise\\Mapping\\Department\\DepartmentProfile.cs",
-              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\Company.Servise\\Mapping\\Department\\DepartmentProfile.cs",
-              "RelativeToolTip": "Company.Servise\\Mapping\\Department\\DepartmentProfile.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T23:20:04.126Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Company.Servise",
-              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\Company.Servise\\Company.Servise.csproj",
-              "RelativeDocumentMoniker": "Company.Servise\\Company.Servise.csproj",
-              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\Company.Servise\\Company.Servise.csproj",
-              "RelativeToolTip": "Company.Servise\\Company.Servise.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-07T22:08:45.743Z",
+              "WhenOpened": "2024-09-10T18:02:40.796Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "EmployeeService.cs",
-              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\Company.Servise\\Services\\Employee\\EmployeeService.cs",
-              "RelativeDocumentMoniker": "Company.Servise\\Services\\Employee\\EmployeeService.cs",
-              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\Company.Servise\\Services\\Employee\\EmployeeService.cs",
-              "RelativeToolTip": "Company.Servise\\Services\\Employee\\EmployeeService.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAwwCAAAAAzAAAA",
+              "Title": "SignUpViewModel.cs",
+              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Models\\SignUpViewModel.cs",
+              "RelativeDocumentMoniker": "hebamohsen_MVC_P03\\Models\\SignUpViewModel.cs",
+              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Models\\SignUpViewModel.cs",
+              "RelativeToolTip": "hebamohsen_MVC_P03\\Models\\SignUpViewModel.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABYAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T18:16:17.164Z",
+              "WhenOpened": "2024-09-10T16:32:10.973Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DepartmentRepository.cs",
-              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\Company.Repository\\Repositories\\DepartmentRepository.cs",
-              "RelativeDocumentMoniker": "Company.Repository\\Repositories\\DepartmentRepository.cs",
-              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\Company.Repository\\Repositories\\DepartmentRepository.cs",
-              "RelativeToolTip": "Company.Repository\\Repositories\\DepartmentRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "hebamohsen_MVC_P03\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "hebamohsen_MVC_P03\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T21:27:55.189Z",
+              "WhenOpened": "2024-09-10T16:28:18.033Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DepartmentDto.cs",
-              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\Company.Servise\\Interfaces\\DepartmentDto.cs",
-              "RelativeDocumentMoniker": "Company.Servise\\Interfaces\\DepartmentDto.cs",
-              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\Company.Servise\\Interfaces\\DepartmentDto.cs",
-              "RelativeToolTip": "Company.Servise\\Interfaces\\DepartmentDto.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "DocumentIndex": 8,
+              "Title": "20240910150346_AddIdentityTables.cs",
+              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\Data.Models\\Migrations\\20240910150346_AddIdentityTables.cs",
+              "RelativeDocumentMoniker": "Data.Models\\Migrations\\20240910150346_AddIdentityTables.cs",
+              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\Data.Models\\Migrations\\20240910150346_AddIdentityTables.cs",
+              "RelativeToolTip": "Data.Models\\Migrations\\20240910150346_AddIdentityTables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T19:57:42.669Z",
+              "WhenOpened": "2024-09-10T15:04:04.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Program.cs",
+              "RelativeDocumentMoniker": "hebamohsen_MVC_P03\\Program.cs",
+              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Program.cs",
+              "RelativeToolTip": "hebamohsen_MVC_P03\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAFYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T14:12:25.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Views\\Account\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "hebamohsen_MVC_P03\\Views\\Account\\SignUp.cshtml",
+              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Views\\Account\\SignUp.cshtml",
+              "RelativeToolTip": "hebamohsen_MVC_P03\\Views\\Account\\SignUp.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T19:20:08.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "hebamohsen_MVC_P03\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "hebamohsen_MVC_P03\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T18:28:54.829Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "hebamohsen_MVC_P03\\Controllers\\EmployeeController.cs",
-              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "hebamohsen_MVC_P03\\Controllers\\EmployeeController.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAIwB4AAAAJAAAA",
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\Data.Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Data.Models\\ApplicationUser.cs",
+              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\Data.Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Data.Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T20:27:22.339Z",
+              "WhenOpened": "2024-09-10T14:01:02.722Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "EmployeeRepository.cs",
-              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\Company.Repository\\Repositories\\EmployeeRepository.cs",
-              "RelativeDocumentMoniker": "Company.Repository\\Repositories\\EmployeeRepository.cs",
-              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\Company.Repository\\Repositories\\EmployeeRepository.cs",
-              "RelativeToolTip": "Company.Repository\\Repositories\\EmployeeRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 9,
+              "Title": "CompanyDbContext.cs",
+              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\Data.Models\\Contexts\\CompanyDbContext.cs",
+              "RelativeDocumentMoniker": "Data.Models\\Contexts\\CompanyDbContext.cs",
+              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\Data.Models\\Contexts\\CompanyDbContext.cs",
+              "RelativeToolTip": "Data.Models\\Contexts\\CompanyDbContext.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABMAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T21:27:45.364Z",
+              "WhenOpened": "2024-09-10T13:48:13.549Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IEmployeeRepository.cs",
-              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\Company.Repository\\Interfaces\\IEmployeeRepository.cs",
-              "RelativeDocumentMoniker": "Company.Repository\\Interfaces\\IEmployeeRepository.cs",
-              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\Company.Repository\\Interfaces\\IEmployeeRepository.cs",
-              "RelativeToolTip": "Company.Repository\\Interfaces\\IEmployeeRepository.cs",
+              "DocumentIndex": 11,
+              "Title": "Company.Data",
+              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\Data.Models\\Company.Data.csproj",
+              "RelativeDocumentMoniker": "Data.Models\\Company.Data.csproj",
+              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\Data.Models\\Company.Data.csproj",
+              "RelativeToolTip": "Data.Models\\Company.Data.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T21:27:24.681Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IDepartmentRepository.cs",
-              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\Company.Repository\\Interfaces\\IDepartmentRepository.cs",
-              "RelativeDocumentMoniker": "Company.Repository\\Interfaces\\IDepartmentRepository.cs",
-              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\Company.Repository\\Interfaces\\IDepartmentRepository.cs",
-              "RelativeToolTip": "Company.Repository\\Interfaces\\IDepartmentRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T21:23:20.603Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "hebamohsen_MVC_P03\\Views\\_ViewImports.cshtml",
-              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "hebamohsen_MVC_P03\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-07T20:13:02.439Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Views\\Department\\Index.cshtml",
-              "RelativeDocumentMoniker": "hebamohsen_MVC_P03\\Views\\Department\\Index.cshtml",
-              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Views\\Department\\Index.cshtml",
-              "RelativeToolTip": "hebamohsen_MVC_P03\\Views\\Department\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-07T20:12:08.331Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IEmployeeServise.cs",
-              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\Company.Servise\\Interfaces\\Employee\\IEmployeeServise.cs",
-              "RelativeDocumentMoniker": "Company.Servise\\Interfaces\\Employee\\IEmployeeServise.cs",
-              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\Company.Servise\\Interfaces\\Employee\\IEmployeeServise.cs",
-              "RelativeToolTip": "Company.Servise\\Interfaces\\Employee\\IEmployeeServise.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T20:04:57.387Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Views\\Department\\Create.cshtml",
-              "RelativeDocumentMoniker": "hebamohsen_MVC_P03\\Views\\Department\\Create.cshtml",
-              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Views\\Department\\Create.cshtml",
-              "RelativeToolTip": "hebamohsen_MVC_P03\\Views\\Department\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-07T20:11:26.988Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Views\\Department\\Details.cshtml",
-              "RelativeDocumentMoniker": "hebamohsen_MVC_P03\\Views\\Department\\Details.cshtml",
-              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Views\\Department\\Details.cshtml",
-              "RelativeToolTip": "hebamohsen_MVC_P03\\Views\\Department\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-07T20:12:02.615Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "IDepartmentServise.cs",
-              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\Company.Servise\\Interfaces\\IDepartmentServise.cs",
-              "RelativeDocumentMoniker": "Company.Servise\\Interfaces\\IDepartmentServise.cs",
-              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\Company.Servise\\Interfaces\\IDepartmentServise.cs",
-              "RelativeToolTip": "Company.Servise\\Interfaces\\IDepartmentServise.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T15:31:05.472Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Views\\Department\\Update.cshtml",
-              "RelativeDocumentMoniker": "hebamohsen_MVC_P03\\Views\\Department\\Update.cshtml",
-              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Views\\Department\\Update.cshtml",
-              "RelativeToolTip": "hebamohsen_MVC_P03\\Views\\Department\\Update.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-07T20:12:15.232Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Department.cs",
-              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\Data.Models\\Models\\Department.cs",
-              "RelativeDocumentMoniker": "Data.Models\\Models\\Department.cs",
-              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\Data.Models\\Models\\Department.cs",
-              "RelativeToolTip": "Data.Models\\Models\\Department.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T19:48:58.805Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\Data.Models\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "Data.Models\\Models\\Employee.cs",
-              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\Data.Models\\Models\\Employee.cs",
-              "RelativeToolTip": "Data.Models\\Models\\Employee.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAABkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T19:12:20.44Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "EmployeeProfile.cs",
-              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\Company.Servise\\Mapping\\Employee\\EmployeeProfile.cs",
-              "RelativeDocumentMoniker": "Company.Servise\\Mapping\\Employee\\EmployeeProfile.cs",
-              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\Company.Servise\\Mapping\\Employee\\EmployeeProfile.cs",
-              "RelativeToolTip": "Company.Servise\\Mapping\\Employee\\EmployeeProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T18:07:24.323Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-10T13:42:05.369Z",
               "EditorCaption": ""
             }
           ]

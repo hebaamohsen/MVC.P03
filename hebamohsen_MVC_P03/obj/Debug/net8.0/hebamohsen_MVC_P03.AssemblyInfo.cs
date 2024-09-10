@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hebamohsen_MVC_P03")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12654f567832330281b7a6173aa38a5ecc596471")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a5052bd3bc8cd56ef1ef0813b623dc32025f4fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("hebamohsen_MVC_P03")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hebamohsen_MVC_P03")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
