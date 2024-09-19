@@ -12,11 +12,13 @@ namespace hebamohsen_MVC_P03.Controllers
     {
         private readonly IEmployeeServise _employeeServise;
         private readonly IDepartmentServise _departmentServise;
+        private readonly IUnitOfWork _unitOfWork;
 
-        public EmployeeController(IEmployeeServise employeeServise, IDepartmentServise departmentServise)
+        public EmployeeController(IEmployeeServise employeeServise, IDepartmentServise departmentServise , IUnitOfWork unitOfWork)
         {
             _employeeServise = employeeServise;
             _departmentServise = departmentServise;
+            _unitOfWork = unitOfWork;
         }
         public IActionResult Index(string searchInput)
         {
@@ -44,14 +46,17 @@ namespace hebamohsen_MVC_P03.Controllers
                 if (ModelState.IsValid)
                 {
                     _employeeServise.Add(employee);
-                    return RedirectToAction("Index");
+                    return RedirectToAction(nameof(Index));
 
                 }
-                return View(employee);
+				ViewBag.Departments = _departmentServise.GetAll();
+				return View(employee);
             }
             catch (Exception ex)
             {
-                return View(employee);
+				ViewBag.Departments = _departmentServise.GetAll();
+
+				return View(employee);
             }
         }
     }

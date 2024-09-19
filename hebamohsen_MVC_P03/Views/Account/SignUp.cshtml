@@ -1,29 +1,45 @@
-﻿
+﻿@model SignUpViewModel
 @{
     ViewData["Title"] = "SignUp";
     Layout = "~/Views/Shared/_AuthLayout.cshtml";
 }
 
-<h1>SignUp</h1>
 
-<form class="login100-form validate-form">
+
+<form asp-action="SignUp" method="post" class="login100-form validate-form">
+	<div asp-validation-summary="All"></div>
 					<span class="login100-form-logo">
 						<i class="zmdi zmdi-landscape"></i>
 					</span>
 
 					<span class="login100-form-title p-b-34 p-t-27">
-						Log in
+						SignUp
 					</span>
 
-					<div class="wrap-input100 validate-input" data-validate = "Enter username">
-						<input class="input100" type="text" name="username" placeholder="Username">
-						<span class="focus-input100" data-placeholder="&#xf207;"></span>
+					<div class="wrap-input100 validate-input" data-validate = "Enter First Name">
+						<input class="form-control" asp-for="FirstName" type="text"  placeholder="FirstName">
+						<span asp-validation-for="FirstName" class="focus-input100" data-placeholder="&#xf207;"></span>
 					</div>
 
-					<div class="wrap-input100 validate-input" data-validate="Enter password">
-						<input class="input100" type="password" name="pass" placeholder="Password">
-						<span class="focus-input100" data-placeholder="&#xf191;"></span>
+					<div class="wrap-input100 validate-input" data-validate="Enter Last Name">
+						<input class="form-control" asp-for="LastName" type="text" placeholder="LastName">
+						<span asp-validation-for="LastName" class="focus-input100" data-placeholder="&#xf191;"></span>
 					</div>
+
+	               <div class="wrap-input100 validate-input" data-validate="Enter Email">
+		               <input class="form-control" asp-for="Email" type="email" placeholder="Email">
+		               <span asp-validation-for="Email" class="focus-input100" data-placeholder="&#xf191;"></span>
+	               </div>
+
+	               <div class="wrap-input100 validate-input" data-validate="Enter Password">
+		              <input class="form-control" asp-for="Password" type="password" placeholder="Password">
+		              <span asp-validation-for="Password" class="focus-input100" data-placeholder="&#xf191;"></span>
+			       </div>
+
+                  <div class="wrap-input100 validate-input" data-validate="Enter Confirm Password">
+		             <input class="form-control" asp-for="ConfirmPassword" type="password" placeholder="Confirm Password">
+		             <span asp-validation-for="ConfirmPassword" class="focus-input100" data-placeholder="&#xf191;"></span>
+	              </div>
 
 					<div class="contact100-form-checkbox">
 						<input class="input-checkbox100" id="ckb1" type="checkbox" name="remember-me">
@@ -32,16 +48,12 @@
 						</label>
 					</div>
 
-					<div class="container-login100-form-btn">
-						<button class="login100-form-btn">
-							Login
-						</button>
-					</div>
-
-					<div class="text-center p-t-90">
+					<input type="submit" value="SignUp" class="btn btn-primary">
+					<div class="text-center ">
 						<a class="txt1" href="#">
 							Forgot Password?
 						</a>
 					</div>
 				</form>
+				<p class="text-white">Do You Have An Account? <a asp-action="Login" class="text-white">Login Now!</a></p>
 

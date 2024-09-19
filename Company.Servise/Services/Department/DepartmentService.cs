@@ -59,8 +59,9 @@ namespace Company.Servise.Services
 
         public void Update(DepartmentDto departmentDto)
         {
-          
-            _unitOfWork.Complete();
+			Department department = _mapper.Map<Department>(departmentDto);
+			_unitOfWork.DepartmentRepository.Update(department);
+			_unitOfWork.Complete();
 
         }
 

@@ -1,0 +1,43 @@
+﻿@model LoginViewModel
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_AuthLayout.cshtml";
+}
+
+<form asp-action="Login" method="post" class="login100-form validate-form">
+	<div asp-validation-summary="All" class="text-danger"></div>
+	<span class="login100-form-logo">
+		<i class="zmdi zmdi-landscape"></i>
+	</span>
+
+	<span class="login100-form-title p-b-34 p-t-27">
+		Login
+	</span>
+
+	
+	<div class="wrap-input100 validate-input" data-validate="Enter Email">
+		<input class="form-control" asp-for="Email" type="email" placeholder="Email">
+		<span asp-validation-for="Email" class="focus-input100" data-placeholder="&#xf191;"></span>
+	</div>
+
+	<div class="wrap-input100 validate-input" data-validate="Enter Password">
+		<input class="form-control" asp-for="Password" type="password" placeholder="Password">
+		<span asp-validation-for="Password" class="focus-input100" data-placeholder="&#xf191;"></span>
+	</div>
+
+	
+
+	<div class="contact100-form-checkbox">
+		<input class="input-checkbox100" id="ckb1" type="checkbox" name="remember-me">
+		<label class="label-checkbox100" for="ckb1">
+			Remember me
+		</label>
+	</div>
+
+	<input type="submit" value="Login" class="btn btn-secondary">
+	<p><a class="text-white" asp-action="ForgetPassword">Forget Password!</a></p>
+</form>
+<p class="text-white">Don't Have An Account? <a asp-action="SignUp" class="text-white">SignUp Now!</a></p>
+
+
+

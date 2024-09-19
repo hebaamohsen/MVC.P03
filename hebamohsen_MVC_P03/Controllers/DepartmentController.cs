@@ -69,17 +69,25 @@ namespace hebamohsen_MVC_P03.Controllers
             return RedirectToAction(nameof(Index));
         }
 
-       
-        public IActionResult Delete(int id)
+		
+
+	
+        public IActionResult Delete(int? id, DepartmentDto departmentDto)
         {
-            var department = _departmentServise.GetById(id);
+            //var department = _departmentServise.GetById(id);
 
-            if (department is null)
-                return RedirectToAction("NotFoundPage", null, "Home");
+            //if (department is null)
+            //    return RedirectToAction("NotFoundPage", null, "Home");
 
-            _departmentServise.Delete(department);
+            //_departmentServise.Delete(department);
 
-            return RedirectToAction(nameof(Index));
+            departmentDto = _departmentServise.GetById(id);
+            if(departmentDto is null)
+
+				return RedirectToAction("NotFoundPage", null, "Home");
+            _departmentServise.Delete(departmentDto);
+
+			return RedirectToAction(nameof(Index));
         }
 
     }

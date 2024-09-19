@@ -272,6 +272,102 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Files\Images\038d0ee1-34ff-4ac5-9270-30c835e793aa-uwpLayV6T9.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>hebamohsen_MVC_P03</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/hebamohsen_MVC_P03</BasePath>
+      <RelativePath>Files/Images/038d0ee1-34ff-4ac5-9270-30c835e793aa-uwpLayV6T9.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Files\Images\038d0ee1-34ff-4ac5-9270-30c835e793aa-uwpLayV6T9.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Files\Images\149200af-dce9-4972-a7a5-897ecab05600-uwpLayV6T9.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>hebamohsen_MVC_P03</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/hebamohsen_MVC_P03</BasePath>
+      <RelativePath>Files/Images/149200af-dce9-4972-a7a5-897ecab05600-uwpLayV6T9.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Files\Images\149200af-dce9-4972-a7a5-897ecab05600-uwpLayV6T9.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Files\Images\3a1fa3ad-58ba-4d4b-a38c-4f29d2359ddc-uwpLayV6T9.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>hebamohsen_MVC_P03</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/hebamohsen_MVC_P03</BasePath>
+      <RelativePath>Files/Images/3a1fa3ad-58ba-4d4b-a38c-4f29d2359ddc-uwpLayV6T9.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Files\Images\3a1fa3ad-58ba-4d4b-a38c-4f29d2359ddc-uwpLayV6T9.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Files\Images\4b10e5b9-5049-4b38-afc0-9a93d51f3f9c-uwpLayV6T9.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>hebamohsen_MVC_P03</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/hebamohsen_MVC_P03</BasePath>
+      <RelativePath>Files/Images/4b10e5b9-5049-4b38-afc0-9a93d51f3f9c-uwpLayV6T9.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Files\Images\4b10e5b9-5049-4b38-afc0-9a93d51f3f9c-uwpLayV6T9.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Files\Images\77f4b35b-d707-4de6-a25c-e78190fd920a-uwpLayV6T9.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>hebamohsen_MVC_P03</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/hebamohsen_MVC_P03</BasePath>
+      <RelativePath>Files/Images/77f4b35b-d707-4de6-a25c-e78190fd920a-uwpLayV6T9.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Files\Images\77f4b35b-d707-4de6-a25c-e78190fd920a-uwpLayV6T9.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Files\Images\d5b9b87b-fc8d-42a0-95c2-2f3c75cca1ae-uwpLayV6T9.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>hebamohsen_MVC_P03</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/hebamohsen_MVC_P03</BasePath>
+      <RelativePath>Files/Images/d5b9b87b-fc8d-42a0-95c2-2f3c75cca1ae-uwpLayV6T9.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Files\Images\d5b9b87b-fc8d-42a0-95c2-2f3c75cca1ae-uwpLayV6T9.png))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\fonts\font-awesome-4.7.0\css\font-awesome.css))">
       <SourceType>Package</SourceType>
       <SourceId>hebamohsen_MVC_P03</SourceId>
