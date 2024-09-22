@@ -3,48 +3,40 @@
   "WorkspaceRootPath": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\hebamohsen_mvc_p03\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|solutionrelative:hebamohsen_mvc_p03\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\hebamohsen_mvc_p03\\models\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|solutionrelative:hebamohsen_mvc_p03\\models\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\hebamohsen_mvc_p03\\models\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|solutionrelative:hebamohsen_mvc_p03\\models\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AD2788A-9B89-4999-923C-7F4018D81917}|Company.Servise\\Company.Servise.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\company.servise\\helper\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AD2788A-9B89-4999-923C-7F4018D81917}|Company.Servise\\Company.Servise.csproj|solutionrelative:company.servise\\helper\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AD2788A-9B89-4999-923C-7F4018D81917}|Company.Servise\\Company.Servise.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\company.servise\\helper\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AD2788A-9B89-4999-923C-7F4018D81917}|Company.Servise\\Company.Servise.csproj|solutionrelative:company.servise\\helper\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\hebamohsen_mvc_p03\\views\\account\\checkyouinbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|solutionrelative:hebamohsen_mvc_p03\\views\\account\\checkyouinbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\hebamohsen_mvc_p03\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|solutionrelative:hebamohsen_mvc_p03\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\hebamohsen_mvc_p03\\views\\account\\forgetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|solutionrelative:hebamohsen_mvc_p03\\views\\account\\forgetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\hebamohsen_mvc_p03\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|solutionrelative:hebamohsen_mvc_p03\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\hebamohsen_mvc_p03\\models\\forgetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|solutionrelative:hebamohsen_mvc_p03\\models\\forgetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\hebamohsen_mvc_p03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|solutionrelative:hebamohsen_mvc_p03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\hebamohsen_mvc_p03\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|solutionrelative:hebamohsen_mvc_p03\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\hebamohsen_mvc_p03\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|solutionrelative:hebamohsen_mvc_p03\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\hebamohsen_mvc_p03\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|solutionrelative:hebamohsen_mvc_p03\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\hebamohsen_mvc_p03\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|solutionrelative:hebamohsen_mvc_p03\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\hebamohsen_mvc_p03\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|solutionrelative:hebamohsen_mvc_p03\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\hebamohsen_mvc_p03\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|solutionrelative:hebamohsen_mvc_p03\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\hebamohsen_mvc_p03\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|solutionrelative:hebamohsen_mvc_p03\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|e:\\asp.assignments\\hebamohsen_mvc_p03\\hebamohsen_mvc_p03\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{443A20CF-3152-4C7E-97AD-77077892D785}|hebamohsen_MVC_P03\\hebamohsen_MVC_P03.csproj|solutionrelative:hebamohsen_mvc_p03\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,154 +46,127 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "hebamohsen_MVC_P03\\Views\\Account\\Login.cshtml",
-              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "hebamohsen_MVC_P03\\Views\\Account\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-18T18:46:40.663Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SignUpViewModel.cs",
-              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Models\\SignUpViewModel.cs",
-              "RelativeDocumentMoniker": "hebamohsen_MVC_P03\\Models\\SignUpViewModel.cs",
-              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Models\\SignUpViewModel.cs",
-              "RelativeToolTip": "hebamohsen_MVC_P03\\Models\\SignUpViewModel.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T02:17:31.616Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ResetPasswordViewModel.cs",
-              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Models\\ResetPasswordViewModel.cs",
-              "RelativeDocumentMoniker": "hebamohsen_MVC_P03\\Models\\ResetPasswordViewModel.cs",
-              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Models\\ResetPasswordViewModel.cs",
-              "RelativeToolTip": "hebamohsen_MVC_P03\\Models\\ResetPasswordViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T02:14:44.156Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EmailSettings.cs",
-              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\Company.Servise\\Helper\\EmailSettings.cs",
-              "RelativeDocumentMoniker": "Company.Servise\\Helper\\EmailSettings.cs",
-              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\Company.Servise\\Helper\\EmailSettings.cs",
-              "RelativeToolTip": "Company.Servise\\Helper\\EmailSettings.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAABOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T21:50:31.877Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ForgetPasswordViewModel.cs",
-              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Models\\ForgetPasswordViewModel.cs",
-              "RelativeDocumentMoniker": "hebamohsen_MVC_P03\\Models\\ForgetPasswordViewModel.cs",
-              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Models\\ForgetPasswordViewModel.cs",
-              "RelativeToolTip": "hebamohsen_MVC_P03\\Models\\ForgetPasswordViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T20:52:49.819Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "hebamohsen_MVC_P03\\Controllers\\AccountController.cs",
-              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "hebamohsen_MVC_P03\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAH0AAAAAAAAAAAAAAIwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T16:28:18.033Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Email.cs",
-              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\Company.Servise\\Helper\\Email.cs",
-              "RelativeDocumentMoniker": "Company.Servise\\Helper\\Email.cs",
-              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\Company.Servise\\Helper\\Email.cs",
-              "RelativeToolTip": "Company.Servise\\Helper\\Email.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T21:52:45.214Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CheckYouInbox.cshtml",
-              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Views\\Account\\CheckYouInbox.cshtml",
-              "RelativeDocumentMoniker": "hebamohsen_MVC_P03\\Views\\Account\\CheckYouInbox.cshtml",
-              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Views\\Account\\CheckYouInbox.cshtml",
-              "RelativeToolTip": "hebamohsen_MVC_P03\\Views\\Account\\CheckYouInbox.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-19T00:00:21.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ForgetPassword.cshtml",
-              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Views\\Account\\ForgetPassword.cshtml",
-              "RelativeDocumentMoniker": "hebamohsen_MVC_P03\\Views\\Account\\ForgetPassword.cshtml",
-              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Views\\Account\\ForgetPassword.cshtml",
-              "RelativeToolTip": "hebamohsen_MVC_P03\\Views\\Account\\ForgetPassword.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-18T23:47:52.412Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "hebamohsen_MVC_P03\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "hebamohsen_MVC_P03\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABMAAAAAAAAAAAAAACIAAAB7AAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAACwAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-18T20:17:07.83Z",
+              "WhenOpened": "2024-09-22T04:26:17.027Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Models\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "hebamohsen_MVC_P03\\Models\\LoginViewModel.cs",
-              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Models\\LoginViewModel.cs",
-              "RelativeToolTip": "hebamohsen_MVC_P03\\Models\\LoginViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "DocumentIndex": 2,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "hebamohsen_MVC_P03\\Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "hebamohsen_MVC_P03\\Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T04:11:23.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "hebamohsen_MVC_P03\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "hebamohsen_MVC_P03\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAAAJUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T19:44:17.759Z",
+              "WhenOpened": "2024-09-22T03:59:09.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Program.cs",
+              "RelativeDocumentMoniker": "hebamohsen_MVC_P03\\Program.cs",
+              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Program.cs",
+              "RelativeToolTip": "hebamohsen_MVC_P03\\Program.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAADcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T03:42:20.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "hebamohsen_MVC_P03\\Controllers\\DepartmentController.cs",
+              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "hebamohsen_MVC_P03\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T03:41:35.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "hebamohsen_MVC_P03\\Controllers\\EmployeeController.cs",
+              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "hebamohsen_MVC_P03\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T03:41:25.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "hebamohsen_MVC_P03\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "hebamohsen_MVC_P03\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T03:41:06.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "hebamohsen_MVC_P03\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Controllers\\UserController.cs",
+              "RelativeToolTip": "hebamohsen_MVC_P03\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T03:40:34.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "hebamohsen_MVC_P03\\Controllers\\RoleController.cs",
+              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_P03\\hebamohsen_MVC_P03\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "hebamohsen_MVC_P03\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T03:37:05.253Z",
               "EditorCaption": ""
             }
           ]

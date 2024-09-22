@@ -58,7 +58,7 @@ namespace hebamohsen_MVC_P03.Controllers
 		{
 			if(ModelState.IsValid)
             { 
-                var user = await _userManager.FindByNameAsync(input.Email);
+                var user = await _userManager.FindByEmailAsync(input.Email);
 
                 if (user is not null)
                 {
@@ -95,7 +95,7 @@ namespace hebamohsen_MVC_P03.Controllers
 		{
             if(ModelState.IsValid)
             {
-				var user = await _userManager.FindByNameAsync(input.Email);
+				var user = await _userManager.FindByEmailAsync(input.Email);
                 if(user is not null)
                 {
                     var token = await _userManager.GeneratePasswordResetTokenAsync(user);
@@ -146,6 +146,9 @@ namespace hebamohsen_MVC_P03.Controllers
 		}
 
 
-
-	}
+        public IActionResult AccessDenied()
+        {
+            return View();
+        }
+    }
 }

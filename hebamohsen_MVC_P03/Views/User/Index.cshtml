@@ -1,0 +1,78 @@
+﻿@using Data.Models
+@model IEnumerable<ApplicationUser>
+<h1>All Users</h1>
+<br />
+<br />
+
+<div class="row justify-content-center align-items-center">
+    <form class="row col-8 offset-2" asp-action="Index" asp-controller="User">
+        <div class="col-8">
+            <input type="text" class="form-control" name="searchInput" placeholder="Search By Email" />
+        </div>
+
+        <div class="col-4">
+            <input type="submit" value="Search" class="btn btn-success" />
+
+        </div>
+
+    </form>
+
+</div>
+
+
+@if (Model?.Count() > 0)
+{
+    <table class="table table-striped table-hover">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(M => M.Id)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(M => M.UserName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(M => M.Email)
+                </th>
+               
+                <th>
+                    Details
+                </th>
+                <th>
+                    Update
+                </th>
+                <th>
+                    Delete
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(m=>item.Id)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(m => item.UserName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(m => item.Email)
+                    </td>
+                   
+                    <partial name="_ActionButtonsPartialView" model="item.Id.ToString()" />
+
+
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <div class="mt-5 alert alert-warning">
+        <h3>
+            No Users Found !
+        </h3>
+    </div>
+}

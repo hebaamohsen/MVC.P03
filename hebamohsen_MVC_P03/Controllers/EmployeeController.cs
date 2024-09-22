@@ -3,11 +3,13 @@ using Company.Repository.Interfaces;
 using Company.Servise.Interfaces;
 using Company.Servise.Interfaces.Employee;
 using Company.Servise.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.ModelBinding;
 
 namespace hebamohsen_MVC_P03.Controllers
 {
+    [Authorize]
     public class EmployeeController : Controller
     {
         private readonly IEmployeeServise _employeeServise;

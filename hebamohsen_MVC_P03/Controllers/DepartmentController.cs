@@ -1,9 +1,11 @@
 ﻿using Company.Data.Models;
 using Company.Servise.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace hebamohsen_MVC_P03.Controllers
 {
+    [Authorize]
     public class DepartmentController : Controller
     {
         private readonly IDepartmentServise _departmentServise;
@@ -72,22 +74,18 @@ namespace hebamohsen_MVC_P03.Controllers
 		
 
 	
-        public IActionResult Delete(int? id, DepartmentDto departmentDto)
+        public IActionResult Delete(int id)
         {
-            //var department = _departmentServise.GetById(id);
+            var department = _departmentServise.GetById(id);
 
-            //if (department is null)
-            //    return RedirectToAction("NotFoundPage", null, "Home");
+            if (department is null)
+                return RedirectToAction("NotFoundPage", null, "Home");
 
-            //_departmentServise.Delete(department);
+            _departmentServise.Delete(department);
 
-            departmentDto = _departmentServise.GetById(id);
-            if(departmentDto is null)
 
-				return RedirectToAction("NotFoundPage", null, "Home");
-            _departmentServise.Delete(departmentDto);
 
-			return RedirectToAction(nameof(Index));
+            return RedirectToAction(nameof(Index));
         }
 
     }
